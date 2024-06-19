@@ -1,2 +1,6 @@
-.vscode
+.constructor/
+.provisioner/
+.vscode/
+temp/
 build.env
+manifest.json
