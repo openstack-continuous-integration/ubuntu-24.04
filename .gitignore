@@ -2,5 +2,6 @@
 .provisioner/
 .vscode/
 temp/
+*.old
 build.env
 manifest.json
