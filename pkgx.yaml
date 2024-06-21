@@ -1,0 +1,4 @@
+env:
+dependencies:
+  # https://github.com/go-task/task/issues/1593
+  taskfile.dev^3.37
